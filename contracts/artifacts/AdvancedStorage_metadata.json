@@ -111,11 +111,11 @@
 	},
 	"sources": {
 		"advanced-storage-blockchain/contracts/AdvancedStorage.sol": {
-			"keccak256": "0x300b2b89320325a9ebcd987c0bf926afedd3481f905c10fa6c8ff35980db6e4b",
+			"keccak256": "0xa837eb9c784e8d6f31f7ad0f19f1e9b3b2876c5b877be626e957889aedceb621",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://255b896be04e27ed81e7b6b7299d16478db04d87175996ffbfa4f11902f6a438",
-				"dweb:/ipfs/QmfL9s2cn5jjCUmQFFGSbMAScmFumCHhGCRY5gYgHGjMv8"
+				"bzz-raw://ec2d549b96ca8d2c82e0375ea8e4505ac70acab449a517a86a0922fe841d834e",
+				"dweb:/ipfs/QmYsYfWKpDXFK9KmNeWAsMEFRdm8NfDCG5x7hFZUqXB6aF"
 			]
 		}
 	},
