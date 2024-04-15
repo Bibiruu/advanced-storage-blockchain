@@ -2,19 +2,22 @@
   "name": "advanced-storage-blockchain",
   "version": "1.0.0",
   "description": "advanced-storage-blockchain",
-  "main": "index.js",
+  "main": "truffle-config.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "test",
+    "start": "webpack-dev-server"
   },
   "keywords": [],
-  "author": "",
+  "author": "Bibiruu-advanced-storage-blockchain",
   "license": "ISC",
-
-  "dependencies": {
-    "static-server": "^3.0.0",
-    "web3": "^1.10.0"
-  },
   "devDependencies": {
-    "truffle": "^5.7.3"
+    "@babel/preset-env": "^7.24.4",
+    "@webpack-cli/serve": "^2.0.4",
+    "babel-loader": "^9.1.3",
+    "html-loader": "^5.0.0",
+    "truffle": "^5.7.3",
+    "web3": "^1.10.4",
+    "webpack": "^5.0.0",
+    "webpack-dev-server": "^5.0.4"
   }
 }

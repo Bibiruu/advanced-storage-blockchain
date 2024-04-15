@@ -9,8 +9,8 @@ contract AdvancedStorage {
         ids.push(id);
     }
 
-    function get(uint position) view public returns(uint) {
-        return ids[position];
+    function get(uint i) view public returns(uint) {
+        return ids[i];
     }
     //defining memory location to a complex type: array
     function getAll() view public returns (uint[] memory) {
